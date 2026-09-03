@@ -9,9 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@next/third-parties": "^16.3.4",
     "@portabletext/react": "^8.0.1",
     "@sanity/image-url": "^2.1.1",
     "@sanity/locale-pt-br": "^1.1.36",
+    "lucide-react": "^1.40.0",
     "next": "16.3.2",
     "next-sanity": "^13.3.3",
     "react": "19.2.8",

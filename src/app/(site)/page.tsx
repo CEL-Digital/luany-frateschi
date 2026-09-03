@@ -54,9 +54,9 @@ export default function Home() {
             </p>
           </div>
           <div className="p-6 bg-white border border-slate-100 rounded-xl shadow-sm space-y-3">
-            <h3 className="text-xl font-semibold text-slate-800">Método TCC</h3>
+            <h3 className="text-xl font-semibold text-slate-800">Palestras</h3>
             <p className="text-slate-600 text-sm leading-relaxed">
-              Terapia Cognitivo-Comportamental é meu método de atendimento!
+              Psicologa palestrante de temas relacionados a psicologia e ao pensamento humano.
             </p>
           </div>
         </div>
