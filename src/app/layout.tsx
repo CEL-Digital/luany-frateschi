@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dra. Luany Frateschi | Psicologia",
-  description: "Psicóloga Dra. Luany Frateschi",
+  title: "Luany Frateschi | Psicologia",
+  description: "Psicóloga Luany Frateschi",
 };
 
 export default function RootLayout({
