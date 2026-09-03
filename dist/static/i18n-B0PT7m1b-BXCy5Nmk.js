@@ -1,0 +1,1 @@
+import{t as e}from"./preload-helper-Czpn1I53.js";var t=`variants`,n={locale:`en-US`,namespace:t,resources:()=>e(()=>import(`./resources-CaCVwqJm-BajIXbjP.js`),[])};export{n,t};

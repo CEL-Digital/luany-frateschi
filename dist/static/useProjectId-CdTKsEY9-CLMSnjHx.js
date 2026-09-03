@@ -1,0 +1,1 @@
+import{u as e}from"./dist-CMJx83j4.js";function t(){return e().projectId}export{t};
