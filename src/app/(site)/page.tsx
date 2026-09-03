@@ -37,26 +37,26 @@ export default function Home() {
       <section className="max-w-6xl mx-auto px-4">
         <div className="text-center max-w-2xl mx-auto mb-12">
           <h2 className="text-3xl font-bold text-slate-900">Como posso te ajudar</h2>
-          <p className="text-slate-600 mt-2">Atendimentos personalizados para cada fase da sua jornada.</p>
+          <p className="text-slate-600 mt-2">Atendimentos personalizados para cada fase da sua jornada</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="p-6 bg-white border border-slate-100 rounded-xl shadow-sm space-y-3">
             <h3 className="text-xl font-semibold text-slate-800">Terapia Individual</h3>
             <p className="text-slate-600 text-sm leading-relaxed">
-              Sessões focadas no seu desenvolvimento pessoal, ansiedade e inteligência emocional.
+              Sessões focadas no seu desenvolvimento pessoal, ansiedade e inteligência emocional
             </p>
           </div>
           <div className="p-6 bg-white border border-slate-100 rounded-xl shadow-sm space-y-3">
             <h3 className="text-xl font-semibold text-slate-800">Orientação Vocacional</h3>
             <p className="text-slate-600 text-sm leading-relaxed">
-              Processo de análise de perfil, estratégias de decisão e acompanhamento na escolha.
+              Processo de análise de perfil, estratégias de decisão e acompanhamento na escolha
             </p>
           </div>
           <div className="p-6 bg-white border border-slate-100 rounded-xl shadow-sm space-y-3">
             <h3 className="text-xl font-semibold text-slate-800">Palestras</h3>
             <p className="text-slate-600 text-sm leading-relaxed">
-              Psicologa palestrante de temas relacionados a psicologia e ao pensamento humano.
+              Psicologa palestrante de temas relacionados a psicologia e ao pensamento humano
             </p>
           </div>
         </div>
