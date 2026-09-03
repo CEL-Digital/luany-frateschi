@@ -8,7 +8,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <span className="text-sky-700 bg-sky-400/80 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">
-              Atendimento Presencial & Online
+              Atendimento Online
             </span>
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 leading-tight">
               Cuidar da sua saúde mental é o primeiro passo para uma vida leve.

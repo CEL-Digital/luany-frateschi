@@ -12,10 +12,10 @@ export function Footer() {
     <footer className="bg-slate-900 text-slate-400 py-12 border-t border-slate-800">
       <div className="max-w-6xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
-          <h3 className="text-white font-semibold text-lg mb-3">Dra. Luany Frateschi</h3>
+          <h3 className="text-white font-semibold text-lg mb-3">Luany Frateschi | Psicologa</h3>
           <p className="text-sm leading-relaxed">
             Psicóloga Clínica — CRP 06/216967.<br />
-            Atendimento presencial e online focado em bem-estar e saúde mental.
+            Atendimento online focado em bem-estar e saúde mental.
           </p>
         </div>
 
